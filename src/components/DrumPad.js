@@ -115,7 +115,7 @@ const DrumPad = () => {
         className="range"
         onChange={(e) => setVolume(e.target.value)}
         type="range"
-        step="0.01"
+        step="0.10"
         value={volume}
         max="1"
         min="0"
