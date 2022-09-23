@@ -1,0 +1,54 @@
+.App {
+  background: navy;
+  max-width: 500px;
+  width: 90%;
+  margin: auto;
+  text-transform: capitalize;
+  color: snow;
+ 
+}
+section{
+  margin-left: 30px;
+}
+h1{
+  text-align: center;
+}
+.pad-container{
+  padding: 10px;
+  display: inline-block;
+
+}
+.pad{
+  color: navy;
+  padding: 30px;
+  border: none;
+  border-radius: 10px;
+}
+.pad-active{
+  background-color: palevioletred;
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.display{
+  background-color: white;
+  border:  3px solid  black;
+  color: navy;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 10px 0;
+  margin-left: 10px;
+  width: 80%;
+}
+h3{
+  text-align: center;
+  background-color: white;
+  color: navy;
+  text-transform: uppercase;
+  padding: 5px;
+  width: 90%;
+}
+.range {
+ width: 80%;
+ margin-bottom: 50px;
+}
